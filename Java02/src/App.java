@@ -23,24 +23,44 @@ public class App {
                 if( number <=10 && number >= 1 ){
                         switch(number){
                             case 1: querier.task1();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 2: querier.task2();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 3: querier.task3();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 4: querier.task4();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 5: querier.task5();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 6: querier.task6();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 7: querier.task7();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 8: querier.task8();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 9: querier.task9();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                             case 10: querier.task10();
+                            System.out.println("");
+                            System.out.println("To get the answers please press the number of the task You are interested in");
                             break;
                         }
                         input = scanner.nextLine();

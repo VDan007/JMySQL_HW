@@ -1,0 +1,1 @@
+Please note the mySQL settings in these projects : dbc:mysql://localhost:3306","root","rootpassword" 
